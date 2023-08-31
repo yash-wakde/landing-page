@@ -52,7 +52,7 @@ a{
     font-size: 48px;
     font-weight: 800;
     width: 450px;
-    margin-bottom: 12px;
+    margin-bottom: 18px;
 
 }
 
@@ -60,7 +60,7 @@ a{
     color:#e5e7eb;
     font-size: 18px;
     width: 450px;
-    margin-bottom: 12px;
+    margin-bottom: 18px;
 }
 
 button{
@@ -76,7 +76,7 @@ button{
 }
 
 img{
-    height: 250px;
+    height: 255px;
     width: 500px;
 }
 
