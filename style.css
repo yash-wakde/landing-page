@@ -4,12 +4,16 @@
     margin: 0px;
 }
 
-.header{
+.hero{
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    flex-direction: column;
+}
+
+.top-bar{
     background-color: #1f2937;
-    padding: 24px;
+    padding: 24px 125px;
+    display: flex;
+    justify-content: space-between;
 }
 
 ul{
@@ -30,16 +34,22 @@ a{
     color: #e5e7eb;
 }
 
-.hero{
+.container{
+    background-color: #1f2937;
+    display: flex;
+}
+
+.content{
     display: flex;
     flex-direction: column;
-    background-color: #1f2937;
 }
 
 .main-text{
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 800;
+    display: flex;
+    justify-content:center;
 }
 
 .text{
@@ -52,7 +62,10 @@ button{
     color: white;
     background-color: rgba(104, 85, 224, 1);
 }
-/* img{
+
+img{
+    padding: 36px;
     height: auto;
     width: 400px;
-} */
+}
+
