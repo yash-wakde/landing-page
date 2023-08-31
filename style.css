@@ -166,5 +166,13 @@ img{
     border: 2px solid #F9FAF8;
     width: 150px;
     height: 50px;
-    
 }
+
+.footer{
+    padding: 24px 125px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+    text-align: center;
+}
+
