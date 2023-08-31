@@ -36,7 +36,10 @@ a{
 
 .container{
     background-color: #1f2937;
+    padding: 48px 125px 72px 125px;
     display: flex;
+    justify-content: space-between;
+
 }
 
 .content{
@@ -48,24 +51,32 @@ a{
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 800;
-    display: flex;
-    justify-content:center;
+    width: 450px;
+    margin-bottom: 12px;
+
 }
 
-.text{
+.sec-text{
     color:#e5e7eb;
     font-size: 18px;
+    width: 450px;
+    margin-bottom: 12px;
 }
 
 button{
-    max-width: 100px;
+    width: 125px;
+    height: auto;
     color: white;
-    background-color: rgba(104, 85, 224, 1);
+    background-color: #3882F6;
+    border: 0px;
+    padding: 12px;
+    font-size: 18px;
+    font-weight: 800;
+    border-radius: 8px;
 }
 
 img{
-    padding: 36px;
-    height: auto;
-    width: 400px;
+    height: 250px;
+    width: 500px;
 }
 
