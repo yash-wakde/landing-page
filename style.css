@@ -84,7 +84,7 @@ img{
 .testimonials{
     display: flex;
     flex-direction: column;
-    padding: 24px 125px;
+    padding: 48px 125px;
 }
 
 .testimonial-text{
@@ -116,6 +116,16 @@ img{
     width: 200px;
     text-align: center;
     color: #1f2937;
+}
 
+.quote-section{
+    background-color: #e5e7eb;
+    padding: 100px 125px;
+}
+
+.quote{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: lighter;
 }
 
