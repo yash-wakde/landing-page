@@ -29,3 +29,30 @@ a{
     text-decoration: none;
     color: #e5e7eb;
 }
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+}
+
+.main-text{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.text{
+    color:#e5e7eb;
+    font-size: 18px;
+}
+
+button{
+    max-width: 100px;
+    color: white;
+    background-color: rgba(104, 85, 224, 1);
+}
+/* img{
+    height: auto;
+    width: 400px;
+} */
