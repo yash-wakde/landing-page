@@ -2,6 +2,7 @@
     font-family: 'Roboto', sans-serif;
     padding: 0px;
     margin: 0px;
+    box-sizing: border-box;
 }
 
 .hero{
@@ -11,7 +12,7 @@
 
 .top-bar{
     background-color: #1f2937;
-    padding: 24px 125px;
+    padding: 24px 300px;
     display: flex;
     justify-content: space-between;
 }
@@ -36,7 +37,7 @@ a{
 
 .container{
     background-color: #1f2937;
-    padding: 48px 125px 72px 125px;
+    padding: 48px 300px 72px 300px;
     display: flex;
     justify-content: space-between;
 
@@ -59,7 +60,7 @@ a{
 .sec-text{
     color:#e5e7eb;
     font-size: 18px;
-    width: 450px;
+    width: 550px;
     margin-bottom: 18px;
 }
 
@@ -84,7 +85,7 @@ img{
 .testimonials{
     display: flex;
     flex-direction: column;
-    padding: 48px 125px;
+    padding: 48px 300px;
 }
 
 .testimonial-text{
@@ -120,7 +121,7 @@ img{
 
 .quote-section{
     background-color: #e5e7eb;
-    padding: 100px 125px;
+    padding: 100px 300px;
 }
 
 .quote{
@@ -130,7 +131,7 @@ img{
 }
 
 .sign-up{
-    padding: 72px 125px;
+    padding: 72px 300px;
 }
 
 .blue-box{
@@ -170,7 +171,7 @@ img{
 }
 
 .footer{
-    padding: 24px 125px;
+    padding: 24px 300px;
     background-color: #1f2937;
     color: #e5e7eb;
     font-size: 18px;
